@@ -1,0 +1,52 @@
+﻿{
+  "paketi": [
+    {
+      "proizvodac": "OPG Šulog",
+      "kooperacija": "",
+      "lokacija": "Donja Bistra",
+      "opisProizvodaca": "Jedini Hrvat koji uzgaja i distribuira egzotično voće.",
+      "idProizvodaca": "1",
+      "nazivVoca": "Sibirska borovnica",
+      "sortaVoca": "",
+      "naziv": "veliki",
+      "opis": "Indijanska banana starosti do jedne godine",
+      "cijena": 60,
+      "kamera": true,
+      "eko": true,
+      "najmanjaKolicina": 21,
+      "najvecaKolicina": 10000
+    },
+    {
+      "proizvodac": "OPG Šulog",
+      "kooperacija": "",
+      "lokacija": "Donja Bistra",
+      "opisProizvodaca": "Jedini Hrvat koji uzgaja i distribuira egzotično voće.",
+      "idProizvodaca": "1",
+      "nazivVoca": "Sibirska borovnica",
+      "sortaVoca": "",
+      "naziv": "veliki",
+      "opis": "Indijanska banana starosti od 1 do 5 godina",
+      "cijena": 200,
+      "kamera": true,
+      "eko": true,
+      "najmanjaKolicina": 21,
+      "najvecaKolicina": 10000
+    },
+    {
+      "proizvodac": "OPG Šulog",
+      "kooperacija": "",
+      "lokacija": "Donja Bistra",
+      "opisProizvodaca": "Jedini Hrvat koji uzgaja i distribuira egzotično voće.",
+      "idProizvodaca": "1",
+      "nazivVoca": "Sibirska borovnica",
+      "sortaVoca": "",
+      "naziv": "veliki",
+      "opis": "Indijanska banana starosti više od 5 godina",
+      "cijena": 700,
+      "kamera": true,
+      "eko": true,
+      "najmanjaKolicina": 21,
+      "najvecaKolicina": 10000
+    }
+  ]
+}
